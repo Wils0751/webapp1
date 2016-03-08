@@ -4,6 +4,7 @@
 #7F7F7F
 #CA9CCC
 */
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed|Montserrat);
 
 *{
   padding:0;
@@ -15,7 +16,7 @@ html,  body{
   min-height:100%;
   overflow: scroll;
   position: relative;
-  font-family:Roboto, Helvetica, Calibri, sans-serif;
+  font-family:Roboto Condensed, Montserrat, Calibri, sans-serif;
 }
 
 /*REVIEW*/
