@@ -48,7 +48,7 @@ html,  body{
   align-content: center;
   vertical-align: middle;
   width: 100%;
-  font-size: 12px;
+
   color: #FFFFFF;
 }
 .fa-user{
@@ -97,7 +97,7 @@ li{
   align-content: center;
   vertical-align: middle;
   width: 100%;
-  font-size: 100%;
+  font-size: 1.5rem;
   color: #FFFFFF;
   opacity: .9
 }
@@ -135,7 +135,7 @@ h2{
   transform: translate3d(0, -100%, 0); 
 }
 .page-link{
-	font-size: 100%;
+	font-size: 1rem;
 }
 #home{
     background: #7f7f7f;
