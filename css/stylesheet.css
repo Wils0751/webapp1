@@ -19,9 +19,6 @@ html,  body{
   font-family:Roboto Condensed, Montserrat, Calibri, sans-serif;
 }
 
-#overviewP {
-  font-size: 3em;
-}
 
 /*REVIEW*/
 
@@ -166,7 +163,7 @@ h2{
 }
 
 [data-role="page"] p{
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 nav{
   position: fixed;
