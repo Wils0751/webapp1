@@ -31,7 +31,7 @@ html,  body{
   display: table-row;
   text-decoration: none;
 }
-.personIcon {
+.Icon {
   display: table-cell;
   vertical-align: middle;
   width: 30%;
@@ -73,7 +73,7 @@ li{
   width: 100%;
 
 }
-.cardCast{
+.Cast{
   display: table-row;
   text-decoration: none;
 }
@@ -88,7 +88,7 @@ li{
   width: 100%;
   height: auto;
 }
-.actorName {
+.castname {
 
   display: table-cell;
   -webkit-align-content: center;
